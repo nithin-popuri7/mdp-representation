@@ -1,4 +1,4 @@
-![RL1 2](https://github.com/user-attachments/assets/5d751b05-8428-41ce-be4c-daab38ba5f9d)# MDP REPRESENTATION
+# MDP REPRESENTATION
 
 ## AIM:
 To Create any one real world problem in Markov Decision Problem(MDP).
